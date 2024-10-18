@@ -40,5 +40,5 @@ Adios !!!
 -
 -
 -
-Danke. Sincerely,
+Danke- Sincerely,-
 Jhon Dankeg
