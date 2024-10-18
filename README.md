@@ -7,8 +7,15 @@ My BioData,
 
 
 
+About the page ( project reference: https://github.com/tempatmaingameonline/C ),
+this page will develop by many/much peoples from my original residence planet, especially the peoples whom original eye balls colour " blue " ( also yellow hair ).
 
 
+
+
+
+
+##########################################################################################################################
 Disclaimer,
 -
 All of these stuffs ( computer codes ) is " free/gratis " ( mode: public open source code ) for any people ( any living creature and creature race ) in these whole universe. I uploaded my private computer codes to the github for pay and fulfill the penalty ( read here: https://drive.proton.me/urls/DHY4E2ZG1G#aXjRVpyo2No5 ). Able use by any people ( any living creature and creature race ).
