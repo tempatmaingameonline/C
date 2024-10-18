@@ -15,10 +15,10 @@ Original owner: Supernova planet ( yellow star solar system )
 -
 -
 My BioData,
--~> name: Jhon Dankeg ( initial name. not the real/original name )
--~> sample of my original private picture: https://avatars.githubusercontent.com/u/185366331?s=400&u=7832027eaaac82455bc280f5f5f78bab67fb3336&v=4
--~> Diskette A and Diskette B computer person 
--~> original computer operating system: DOS ( sample reference: https://en.wikipedia.org/wiki/DOS )
+- -~> name: Jhon Dankeg ( initial name. not the real/original name )
+- -~> sample of my original private picture: https://avatars.githubusercontent.com/u/185366331?s=400&u=7832027eaaac82455bc280f5f5f78bab67fb3336&v=4
+- -~> Diskette A and Diskette B computer person 
+- -~> original computer operating system: DOS ( sample reference: https://en.wikipedia.org/wiki/DOS )
 
 
 
